@@ -1,0 +1,36 @@
+[
+    {
+        "araba_adi":"BMW",
+        "ulke":"Almanya",
+        "kurulus_yil":1920,
+        "model":[
+            {
+                "model adi":"m5",
+                "fiyat":120000,
+                "benzinli":true
+            },
+            {
+                "model adi":"m3",
+                "fiyat":100000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi":"Ford",
+        "ulke":"ABD",
+        "kurulus_yil":1960,
+        "model":[
+            {
+                "model adi":"focus",
+                "fiyat":650000,
+                "benzinli":true
+            },
+            {
+                "model adi":"mondeo",
+                "fiyat":7000000,
+                "benzinli":true
+            }
+        ]
+    }
+]
